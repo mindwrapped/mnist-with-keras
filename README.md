@@ -7,10 +7,10 @@ Here are the slides: [Link](https://docs.google.com/presentation/d/e/2PACX-1vQqT
 ## Examples
 
 #### Neural Network Predictions Before Training
-![Predictions Before Training]()
+![Predictions Before Training](https://github.com/BioTerran/mnist-with-keras/blob/master/images/before-training.png?raw=true)
 
 #### Correct Predictions
-![Correct Predictions]()
+![Correct Predictions](https://github.com/BioTerran/mnist-with-keras/blob/master/images/correct-predictions.png?raw=true)
 
 #### Incorrect Predictions
-![Incorrect Predictions]()
+![Incorrect Predictions](https://github.com/BioTerran/mnist-with-keras/blob/master/images/incorrect-predictions.png?raw=true)
